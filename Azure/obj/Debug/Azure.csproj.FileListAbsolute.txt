@@ -1,0 +1,12 @@
+C:\Users\xifib\OneDrive\Bureau\Azure\obj\Debug\Azure.csproj.AssemblyReference.cache
+C:\Users\xifib\OneDrive\Bureau\Azure\obj\Debug\KeyAuth.Azure.Properties.Resources.resources
+C:\Users\xifib\OneDrive\Bureau\Azure\obj\Debug\KeyAuth.Login.resources
+C:\Users\xifib\OneDrive\Bureau\Azure\obj\Debug\KeyAuth.Main.resources
+C:\Users\xifib\OneDrive\Bureau\Azure\obj\Debug\Azure.csproj.GenerateResource.cache
+C:\Users\xifib\OneDrive\Bureau\Azure\obj\Debug\Azure.csproj.CoreCompileInputs.cache
+E:\menu\GTA V\Loader\Azure\obj\Debug\Azure.csproj.AssemblyReference.cache
+E:\menu\GTA V\Loader\Azure\obj\Debug\KeyAuth.Azure.Properties.Resources.resources
+E:\menu\GTA V\Loader\Azure\obj\Debug\KeyAuth.Login.resources
+E:\menu\GTA V\Loader\Azure\obj\Debug\KeyAuth.Main.resources
+E:\menu\GTA V\Loader\Azure\obj\Debug\Azure.csproj.GenerateResource.cache
+E:\menu\GTA V\Loader\Azure\obj\Debug\Azure.csproj.CoreCompileInputs.cache

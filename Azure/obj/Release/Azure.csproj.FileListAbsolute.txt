@@ -1,0 +1,12 @@
+E:\menu\GTA V\Loader\Azure\bin\Release\Azure.exe
+E:\menu\GTA V\Loader\Azure\bin\Release\Azure.pdb
+E:\menu\GTA V\Loader\Azure\bin\Release\Siticone.UI.dll
+E:\menu\GTA V\Loader\Azure\obj\Release\Azure.csproj.AssemblyReference.cache
+E:\menu\GTA V\Loader\Azure\obj\Release\KeyAuth.Azure.Properties.Resources.resources
+E:\menu\GTA V\Loader\Azure\obj\Release\KeyAuth.Login.resources
+E:\menu\GTA V\Loader\Azure\obj\Release\KeyAuth.Main.resources
+E:\menu\GTA V\Loader\Azure\obj\Release\Azure.csproj.GenerateResource.cache
+E:\menu\GTA V\Loader\Azure\obj\Release\Azure.csproj.CoreCompileInputs.cache
+E:\menu\GTA V\Loader\Azure\obj\Release\Azure.csproj.CopyComplete
+E:\menu\GTA V\Loader\Azure\obj\Release\Azure.exe
+E:\menu\GTA V\Loader\Azure\obj\Release\Azure.pdb
